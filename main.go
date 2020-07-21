@@ -1,1 +1,7 @@
-package Mi_primero_repo
+package main
+
+import "fmt"
+
+func main () {
+	fmt.Print("hey therre folks")
+}
